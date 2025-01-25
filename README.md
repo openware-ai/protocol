@@ -4,8 +4,22 @@
 Openware AI Protocol is a groundbreaking blockchain-based framework that enables the creation, deployment, and management of AI Agents as blockchain assets. This protocol establishes a decentralized ecosystem where AI Agents can operate autonomously, interact with validators, and perform various tasks while maintaining security and economic sustainability.
 # Contibutors:
 
-Paul@igot.ai
-Brian@igot.ai
+* Paul@igot.ai
+* Brian@igot.ai
+
+# Index
+
+### [Agent DSL - NFT](./docs/agent-nft/)
+- [SCIENTIFIC_ANALYSIS.md](./docs/agent-nft/SCIENTIFIC_ANALYSIS.md)
+- [ECONOMIC_MODEL.md](./docs/agent-nft/ECONOMIC_MODEL.md)
+- [TECHNICAL_SPECIFICATIONS.md](./docs/agent-nft/TECHNICAL_SPECIFICATIONS.md)
+- [FEEDBACK.md](./docs/agent-nft/FEEDBACK.md)
+
+### [Validator Network](./docs/validator/)
+- [SCIENTIFIC_ANALYSIS.md](./docs/validator/SCIENTIFIC_ANALYSIS.md)
+- [ARCHITECTURE.md](./docs/validator/ARCHITECTURE.md)
+- [FEEDBACK.md](./docs/validator/FEEDBACK.md)
+- [NETWORK_ROLES.md](./docs/validator/NETWORK_ROLES.md)
 
 ## Core Components
 
