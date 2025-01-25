@@ -1,7 +1,14 @@
 # Openware AI Protocol
 
 ## Overview
-Openware AI Protocol is a groundbreaking blockchain-based framework that enables the creation, deployment, and management of AI Agents as blockchain assets. This protocol establishes a decentralized ecosystem where AI Agents can operate autonomously, interact with validators, and perform various tasks while maintaining security and economic sustainability.
+
+The Openware AI Protocol is an innovative blockchain-based framework designed to revolutionize the creation, deployment, and management of AI Agents as blockchain assets. This protocol establishes a decentralized ecosystem where AI Agents operate autonomously, interact with validators, and perform various tasks while ensuring security and economic sustainability.
+
+At the heart of the Openware AI Protocol is a robust validator network, grounded in the principles of epistemic logic. This network facilitates the epistemic evolution of AI agents by providing a formal framework for knowledge validation, belief revision, and collective intelligence emergence. Validators play a crucial role in verifying agent activations, monitoring behavior, and guiding learning trajectories, thereby enhancing the intelligence and adaptability of the agent network.
+
+The protocol's design leverages a three-layer validation hierarchy, encompassing direct knowledge verification, consensus-based agreement, and temporal knowledge tracking. This ensures that knowledge within the network is consistently validated, accurately revised, and effectively integrated, fostering a dynamic and intelligent ecosystem.
+
+
 # Contibutors:
 
 * Paul@igot.ai
