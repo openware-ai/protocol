@@ -1,4 +1,4 @@
-# Openware AI Protocol
+# Openware AI Protocol (Agent to Agent - A2A)
 
 ## Overview
 
