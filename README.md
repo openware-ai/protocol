@@ -14,7 +14,7 @@ The protocol's design leverages a three-layer validation hierarchy, encompassing
 * Paul@igot.ai
 * Brian@igot.ai
 
-# Index
+## Index
 
 ### [Agent DSL - NFT](./docs/agent-nft/)
 - [SCIENTIFIC_ANALYSIS.md](./docs/agent-nft/SCIENTIFIC_ANALYSIS.md)
@@ -28,9 +28,15 @@ The protocol's design leverages a three-layer validation hierarchy, encompassing
 - [FEEDBACK.md](./docs/validator/FEEDBACK.md)
 - [NETWORK_ROLES.md](./docs/validator/NETWORK_ROLES.md)
 
+### Economic Model: Coming soon
+
+### Governance Layer: Coming soon
+
+### Security Framework: Coming soon
+
 ## Core Components
 
-### 1. AI Agent NFT System
+### 1. AI Agent DSL - NFT System
 
 #### 1.1 Agent Minting and Ownership
 - AI Agents are minted as unique NFTs using ERC-721 extension with specialized functionality
