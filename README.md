@@ -1,2 +1,0 @@
-# protocol
-Openware AI Protocol
