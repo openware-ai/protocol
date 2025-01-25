@@ -82,7 +82,7 @@ where:
 
 ### 1.3.1 Modal Approach to Knowledge
 
-The modal approach to knowledge in our AI Agent NFT system builds upon the foundational work of Jaakko Hintikka and extends it to the blockchain context. This framework provides a rigorous mathematical basis for representing and reasoning about knowledge in a distributed system of AI agents and validators.
+The modal approach to knowledge in our AI Agent NFT system builds upon the foundational work of Hintikka and extends it to the blockchain context. This framework provides a rigorous mathematical basis for representing and reasoning about knowledge in a distributed system of AI agents and validators.
 
 ```
 1. Possible Worlds Semantics
