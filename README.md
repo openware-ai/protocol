@@ -133,3 +133,18 @@ Openware AI Protocol is a groundbreaking blockchain-based framework that enables
 - Access control systems
 - Privacy-preserving computation
 - Audit trails and logging
+
+
+## References
+```markdown
+@InCollection{sep-logic-epistemic,
+	author       =	{Rendsvig, Rasmus and Symons, John},
+	title        =	{{Epistemic Logic}},
+	booktitle    =	{The {Stanford} Encyclopedia of Philosophy},
+	editor       =	{Edward N. Zalta and Uri Nodelman},
+	howpublished =	{\url{https://plato.stanford.edu/archives/sum2020/entries/logic-epistemic/}},
+	year         =	{2020},
+	edition      =	{{S}ummer 2020},
+	publisher    =	{Metaphysics Research Lab, Stanford University}
+}
+```
