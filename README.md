@@ -62,12 +62,12 @@ Our key innovations address critical challenges in AI model hallucination and di
 - [Complete Paper](./PAPER.md) - Comprehensive academic paper detailing the protocol
 
 ### Technical Documentation
-- [Scientific Analysis](./docs/validator/SCIENTIFIC_ANALYSIS.md) - Epistemic logic framework
+- [Formal Specification](./docs/validator/FORMAL_SPEC.md) - Epistemic logic framework
 - [Architecture](./docs/validator/ARCHITECTURE.md) - System design and components
 - [Network Roles](./docs/validator/NETWORK_ROLES.md) - Validator responsibilities
 
 ### Agent NFT System
-- [Scientific Analysis](./docs/agent-nft/SCIENTIFIC_ANALYSIS.md) - Formal analysis
+- [Formal Specification](./docs/agent-nft/FORMAL_SPEC.md) - Formal analysis
 - [Economic Model](./docs/agent-nft/ECONOMIC_MODEL.md) - Tokenomics
 - [Technical Specs](./docs/agent-nft/TECHNICAL_SPECIFICATIONS.md) - Implementation
 - [Feedback](./docs/agent-nft/FEEDBACK.md) - Community input

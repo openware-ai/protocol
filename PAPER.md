@@ -95,7 +95,7 @@ The remainder of this paper is organized as follows:
 - **Section 5** discusses implementation and experimentation results, with detailed network roles and responsibilities[^3]
 - The paper concludes with future directions and concluding remarks
 
-[1]: [Validator Scientific Analysis](docs/validator/SCIENTIFIC_ANALYSIS.md)
+[1]: [Validator Formal Specification](docs/validator/FORMAL_SPEC.md)
 
 [2]: [Validator Architecture](docs/validator/ARCHITECTURE.md)
 
