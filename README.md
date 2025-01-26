@@ -2,50 +2,111 @@
 
 ## Overview
 
-The Openware AI Protocol introduces a groundbreaking framework that combines epistemic logic with blockchain technology to create a decentralized AI agent ecosystem. Our key innovations include:
+The Openware AI Protocol represents a groundbreaking integration of epistemic logic within blockchain frameworks, specifically designed for AI Agent management and validation. At its core, the protocol implements epistemic logic principles to establish a robust validator network that facilitates the epistemic evolution of AI agents through distributed Small Language Model (SLM) farms.
 
-1. **Epistemic Logic-Based Validation**
-   - Three-layer validation hierarchy for knowledge verification
-   - Formal framework for agent knowledge evolution
-   - Collective intelligence emergence through validator networks
+The framework introduces a three-layer validation hierarchy for:
+- Knowledge verification and consensus formation
+- Temporal knowledge tracking and evolution
+- Economic resource utilization and incentives
 
-2. **Blockchain-Native AI Agents**
-   - AI Agents as NFTs with ERC-721 extensions
-   - Verifiable state transitions with formal proofs
-   - Secure capability management and evolution
+By embedding epistemic reasoning into blockchain protocols, we create a robust framework where:
+- AI Agents operate autonomously within a decentralized ecosystem
+- Validators provide SLM farms for computational resources
+- Knowledge is formally verified through collective intelligence
+- Model hallucination is reduced through distributed validation
+- Economic sustainability is ensured through market mechanisms
 
-3. **Validator Network Architecture**
-   - Knowledge-based consensus mechanisms
-   - Distributed validation with epistemic guarantees
-   - Resource-optimized computation infrastructure
+Our key innovations address critical challenges in AI model hallucination and distributed knowledge validation:
 
-## Contributors
+### 1. Epistemic Logic-Based Validation
+- Three-layer validation hierarchy for knowledge verification
+- Formal framework for agent knowledge evolution
+- Collective intelligence emergence through validator networks
+- Reduction of model hallucination through distributed validation
 
-* Paul (paul@igot.ai)
-* Brian (brian@igot.ai)
+### 2. Blockchain-Native AI Agents
+- AI Agents as NFTs with ERC-721 extensions
+- Verifiable state transitions with formal proofs
+- Secure capability management and evolution
+- Cross-validation mechanisms across distributed nodes
 
-## Documentation Index
+### 3. Distributed SLM Farm Network
+- Validator-operated Small Language Model (SLM) farms
+- Resource rental system for AI agents
+- Dynamic pricing based on utilization and performance
+- Economic incentives for accurate knowledge validation
+
+## Key Features
+
+### Validator Network
+- **Primary Validators**: Blockchain state validation and network coordination
+- **Compute Validators**: AI model execution and resource provision
+- **Orchestrator Validators**: Agent deployment and load balancing
+- **Data Validators**: Communication security and privacy preservation
+
+### SLM Farm Economics
+- Dynamic resource pricing based on market demand
+- Performance-based rewards for validators and agents
+- Efficient resource allocation through market mechanisms
+- Sustainable network growth through aligned incentives
+
+### Knowledge Validation
+- Formal verification of AI-generated knowledge
+- Cross-validation across distributed SLMs
+- Network-wide confidence scoring system
+- Collective intelligence for hallucination reduction
+
+## Documentation
 
 ### Research Paper
 - [Complete Paper](./PAPER.md) - Comprehensive academic paper detailing the protocol
 
-### Agent NFT System
-- [Scientific Analysis](./docs/agent-nft/SCIENTIFIC_ANALYSIS.md) - Formal analysis of the Agent NFT system
-- [Economic Model](./docs/agent-nft/ECONOMIC_MODEL.md) - Tokenomics and incentive structures
-- [Technical Specifications](./docs/agent-nft/TECHNICAL_SPECIFICATIONS.md) - Implementation details
-- [Feedback & Discussions](./docs/agent-nft/FEEDBACK.md) - Community input and responses
+### Technical Documentation
+- [Scientific Analysis](./docs/validator/SCIENTIFIC_ANALYSIS.md) - Epistemic logic framework
+- [Architecture](./docs/validator/ARCHITECTURE.md) - System design and components
+- [Network Roles](./docs/validator/NETWORK_ROLES.md) - Validator responsibilities
 
-### Validator Network
-- [Scientific Analysis](./docs/validator/SCIENTIFIC_ANALYSIS.md) - Epistemic logic framework and validation mechanisms
-- [Architecture](./docs/validator/ARCHITECTURE.md) - Network design and components
-- [Network Roles](./docs/validator/NETWORK_ROLES.md) - Validator responsibilities and interactions
-- [Feedback & Discussions](./docs/validator/FEEDBACK.md) - Technical discussions and improvements
+### Agent NFT System
+- [Scientific Analysis](./docs/agent-nft/SCIENTIFIC_ANALYSIS.md) - Formal analysis
+- [Economic Model](./docs/agent-nft/ECONOMIC_MODEL.md) - Tokenomics
+- [Technical Specs](./docs/agent-nft/TECHNICAL_SPECIFICATIONS.md) - Implementation
+- [Feedback](./docs/agent-nft/FEEDBACK.md) - Community input
+
+## Roadmap
+
+### Current Development
+- Core protocol implementation
+- Validator network deployment
+- SLM farm infrastructure
+- Economic model testing
 
 ### Coming Soon
-- Economic Model: Detailed tokenomics and incentive mechanisms
-- Governance Layer: Protocol governance and upgrade processes
-- Security Framework: Comprehensive security analysis and measures
+- Enhanced economic incentives
+- Advanced governance features
+- Extended security framework
+- Large-scale network testing
+
+## Contributors
+
+* Paul (paul@igot.ai) - CTO of iGOT.ai
+* Brian (brian@igot.ai) - Data/AI Researcher
 
 ## References
 
 For detailed references and citations, please refer to the [Paper](./PAPER.md#references) section.
+
+
+```bibtex
+@InCollection{sep-logic-epistemic,
+    author       = {Rendsvig, Rasmus and Symons, John},
+    title        = {{Epistemic Logic}},
+    booktitle    = {The {Stanford} Encyclopedia of Philosophy},
+    editor       = {Edward N. Zalta and Uri Nodelman},
+    howpublished = {\url{https://plato.stanford.edu/archives/sum2020/entries/logic-epistemic/}},
+    year         = {2020},
+    edition      = {{S}ummer 2020},
+    publisher    = {Metaphysics Research Lab, Stanford University}
+}
+```
+
+This work builds upon foundational research in epistemic logic, particularly the framework established by Rendsvig and Symons (2020) in the Stanford Encyclopedia of Philosophy.
