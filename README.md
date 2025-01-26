@@ -95,6 +95,156 @@ Our key innovations address critical challenges in AI model hallucination and di
 
 For detailed references and citations, please refer to the [Paper](./PAPER.md#references) section.
 
+## System Architecture
+
+```mermaid
+graph TB
+    subgraph Protocol Layer
+        subgraph Formal Verification
+            FP[Formal Proofs]
+            KV[Knowledge Verification]
+            SC[Smart Contracts]
+        end
+        
+        subgraph Consensus Layer
+            EP[Epistemic Protocol]
+            VC[Validation Consensus]
+            PM[Performance Metrics]
+        end
+    end
+
+    subgraph Validator Network
+        subgraph Validation Layer
+            PV[Primary Validators]
+            CV[Compute Validators]
+            OV[Orchestrator Validators]
+            DV[Data Validators]
+        end
+        
+        subgraph SLM Farm Management
+            SF[SLM Orchestration]
+            RC[Resource Control]
+            QA[Quality Assurance]
+            KM[Knowledge Management]
+        end
+    end
+
+    subgraph AI Agent Network
+        subgraph Agent Layer
+            AN[Agent Tokens]
+            CS[Capability System]
+            PS[Proof System]
+        end
+        
+        subgraph Knowledge Layer
+            KS[Knowledge States]
+            EM[Evolution Mechanism]
+            VP[Validation Proofs]
+            CM[Consensus Mechanism]
+        end
+    end
+
+    subgraph Resource Infrastructure
+        subgraph Compute Layer
+            GF[GPU Farms]
+            CR[Compute Resources]
+            RM[Resource Market]
+        end
+        
+        subgraph Storage Layer
+            MP[Memory Pools]
+            NR[Network Resources]
+            DS[Distributed Storage]
+        end
+    end
+
+    %% Formal Verification Flow
+    FP --> PS
+    KV --> VP
+    SC --> AN
+
+    %% Consensus Flow
+    EP --> CM
+    VC --> KM
+    PM --> QA
+
+    %% Validation Flow
+    AN --> CS
+    CS --> KS
+    KS --> VP
+    VP --> KV
+    KM --> EM
+    EM --> SF
+
+    %% Resource Management
+    SF --> CR
+    RC --> MP
+    QA --> RM
+    GF --> CR
+    CR --> MP
+    MP --> DS
+
+    %% Cross-layer Validation
+    KV --> PV
+    KV --> CV
+    SF --> OV
+    DS --> DV
+
+    classDef formal fill:#1e88e5,stroke:#333,stroke-width:2px,color:#fff
+    classDef consensus fill:#7e57c2,stroke:#333,stroke-width:2px,color:#fff
+    classDef validator fill:#bbf,stroke:#333,stroke-width:2px
+    classDef agent fill:#bfb,stroke:#333,stroke-width:2px
+    classDef resource fill:#fbb,stroke:#333,stroke-width:2px
+
+    class FP,KV,SC formal
+    class EP,VC,PM,CM consensus
+    class PV,CV,OV,DV,SF,RC,QA,KM validator
+    class AN,CS,PS,KS,EM,VP agent
+    class GF,CR,RM,MP,NR,DS resource
+```
+
+### Architectural Philosophy
+
+1. **Formal Verification Layer**
+   - Mathematical proofs for knowledge validation
+   - Rigorous verification of state transitions
+   - Formal specification of smart contracts
+   - Provable security properties
+
+2. **Consensus Mechanisms**
+   - Epistemic-based consensus protocols
+   - Peer-reviewed validation mechanisms
+   - Performance-based scoring system
+   - Formal proof aggregation
+
+3. **Resource Management**
+   - Provably fair resource allocation
+   - Quality-assured SLM operations
+   - Verified computation results
+   - Formal resource market dynamics
+
+### Key Principles
+
+1. **Scientific Rigor**
+   - Peer-reviewed protocol design
+   - Formal mathematical foundations
+   - Provable security guarantees
+   - Academic research-backed features
+
+2. **Systematic Validation**
+   - Multi-stage verification process
+   - Formal proof requirements
+   - Quality assurance metrics
+   - Evidence-based evolution
+
+3. **Sustainable Economics**
+   - Mathematically proven incentives
+   - Formal market equilibrium
+   - Verified reward mechanisms
+   - Sustainable growth model
+
+The sequential flows demonstrate how agents interact with validators and each other, while the protocol specifications ensure formal verification and security at each step.
+
 
 ```bibtex
 @InCollection{sep-logic-epistemic,
