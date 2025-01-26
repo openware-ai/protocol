@@ -87,11 +87,19 @@ These contributions represent significant advancements in both theoretical found
 
 ### 1.4 Paper Organization
 
-The remainder of this paper is organized as follows: Section 2 provides background information and related work in blockchain and epistemic logic. Section 3 presents our formal model and definitions, with detailed validator network specifications available in [1]. Section 4 details the proposed framework and methodology, supported by comprehensive validator architecture documentation [2]. Section 5 discusses implementation and experimentation results, with detailed network roles and responsibilities outlined in [3]. The paper concludes with future directions and concluding remarks.
+The remainder of this paper is organized as follows:
 
-[1] Validator Scientific Analysis (docs/validator/SCIENTIFIC_ANALYSIS.md)
-[2] Validator Architecture (docs/validator/ARCHITECTURE.md)
-[3] Validator Network Roles (docs/validator/NETWORK_ROLES.md)
+- **Section 2** provides background information and related work in blockchain and epistemic logic
+- **Section 3** presents our formal model and definitions, with detailed validator network specifications[^1]
+- **Section 4** details the proposed framework and methodology, supported by comprehensive validator architecture documentation[^2]
+- **Section 5** discusses implementation and experimentation results, with detailed network roles and responsibilities[^3]
+- The paper concludes with future directions and concluding remarks
+
+[1]: [Validator Scientific Analysis](docs/validator/SCIENTIFIC_ANALYSIS.md)
+
+[2]: [Validator Architecture](docs/validator/ARCHITECTURE.md)
+
+[3]: [Validator Network Roles](docs/validator/NETWORK_ROLES.md)
 
 ---
 
@@ -904,25 +912,25 @@ This enhanced validator network architecture ensures robust knowledge validation
 
 # References
 
-1. Rendsvig, R., & Symons, J. (2020). Epistemic Logic. In E. N. Zalta & U. Nodelman (Eds.), The Stanford Encyclopedia of Philosophy (Summer 2020 ed.). Metaphysics Research Lab, Stanford University.
+[1] Rendsvig, R., & Symons, J. (2020). "Epistemic Logic." In E. N. Zalta & U. Nodelman (Eds.), *The Stanford Encyclopedia of Philosophy* (Summer 2020 ed.). Metaphysics Research Lab, Stanford University.
 
-2. Wood, G. (2014). Ethereum: A secure decentralised generalised transaction ledger. Ethereum Project Yellow Paper, 151(2014), 1-32.
+[2] Wood, G. (2014). "Ethereum: A secure decentralised generalised transaction ledger." *Ethereum Project Yellow Paper*, 151(2014), 1-32.
 
-3. Buterin, V. (2014). A next-generation smart contract and decentralized application platform. White Paper, 3(37).
+[3] Buterin, V. (2014). "A next-generation smart contract and decentralized application platform." *White Paper*, 3(37).
 
-4. Fagin, R., Halpern, J. Y., Moses, Y., & Vardi, M. (2003). Reasoning about knowledge. MIT press.
+[4] Fagin, R., Halpern, J. Y., Moses, Y., & Vardi, M. (2003). *Reasoning about knowledge*. MIT press.
 
-5. Hintikka, J. (1962). Knowledge and belief: An introduction to the logic of the two notions. Cornell University Press.
+[5] Hintikka, J. (1962). *Knowledge and belief: An introduction to the logic of the two notions*. Cornell University Press.
 
-6. Meyer, J. J. C., & Van Der Hoek, W. (2004). Epistemic logic for AI and computer science. Cambridge University Press.
+[6] Meyer, J. J. C., & Van Der Hoek, W. (2004). *Epistemic logic for AI and computer science*. Cambridge University Press.
 
-7. Castro, M., & Liskov, B. (1999). Practical Byzantine fault tolerance. In OSDI (Vol. 99, No. 1999, pp. 173-186).
+[7] Castro, M., & Liskov, B. (1999). "Practical Byzantine fault tolerance." In *OSDI '99: Proceedings of the Third Symposium on Operating Systems Design and Implementation*, Vol. 99, 173-186.
 
-8. Antonopoulos, A. M., & Wood, G. (2018). Mastering ethereum: building smart contracts and dapps. O'reilly Media.
+[8] Antonopoulos, A. M., & Wood, G. (2018). *Mastering ethereum: building smart contracts and dapps*. O'Reilly Media.
 
-9. Wooldridge, M. (2009). An introduction to multiagent systems. John Wiley & Sons.
+[9] Wooldridge, M. (2009). *An introduction to multiagent systems*. John Wiley & Sons.
 
-10. van Ditmarsch, H., van Der Hoek, W., & Kooi, B. (2007). Dynamic epistemic logic. Springer Science & Business Media.
+[10] van Ditmarsch, H., van Der Hoek, W., & Kooi, B. (2007). *Dynamic epistemic logic*. Springer Science & Business Media.
 
 ## Optional Appendices
 
